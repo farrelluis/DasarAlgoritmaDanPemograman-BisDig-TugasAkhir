@@ -1,14 +1,12 @@
 # DasarAlgoritmaDanPemograman-BisDig-TugasAkhir
-TUGAS AKHIR
+USER MANUAL
 
-# USER MANUAL
-
-Deskripsi Aplikasi
+# Deskripsi Aplikasi
 
 Aplikasi ini dirancang untuk membantu pemilik toko kecil dalam mengelola barang dagangan mereka. Pengguna dapat menambah, melihat, memperbarui stok, dan menghapus data barang secara langsung dari terminal/command prompt.
 
 
-Cara Instalasi
+# Cara Instalasi
 
 Pastikan Python 3 telah terinstal di perangkat Anda
 
@@ -18,7 +16,7 @@ Jalankan aplikasi dengan perintah berikut di terminal: python inventory.py
 
 
 
-Navigasi Menu Aplikasi
+# Navigasi Menu Aplikasi
 
 Setelah dijalankan, aplikasi akan menampilkan pilihan menu berikut:
 
